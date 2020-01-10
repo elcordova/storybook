@@ -55,6 +55,7 @@
     "@types/node": "~12.0.2",
     "@types/webpack-env": "^1.13.7",
     "babel-plugin-require-context-hook": "^1.0.0",
+    "babel-loader": "^8.0.6",
     "global": "^4.3.2",
     "jasmine-core": "~3.4.0",
     "jasmine-spec-reporter": "~4.2.1",
